@@ -6,7 +6,7 @@
   </head>
   <body bgcolor="lavender">
     <center><h1><?PHP
-      "<h1>"."<center>".echo("Hello world! Ashutosh here")."<br>";
+      echo("Hello world! Ashutosh here")."<br>";
       ?></h1></center>
     <center><h2><? php
       echo("This web app is built using PHP");
