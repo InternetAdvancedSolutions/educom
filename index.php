@@ -6,6 +6,9 @@
   </head>
   <body bgcolor="lavender">
     <center>
+      <?php
+        print_r(getdate());
+      ?> 
       <h1>
       <?PHP
       echo("Hello world! Ashutosh here")."<br>";
