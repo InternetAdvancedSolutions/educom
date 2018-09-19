@@ -6,6 +6,7 @@
   </head>
   <body bgcolor="lavender">
     <center>
+      <h1>Educom's motive: Ask, Answer and Learn</h1>
       <?php
         // Print the array from getdate()
         //print_r(getdate());
@@ -15,14 +16,16 @@
     $mydate=getdate(date("U"));
     echo "$mydate[weekday], $mydate[month] $mydate[mday], $mydate[year]";
     ?>
-      <h1>
+      <h2>
       <?PHP
-      echo("Hello world! Ashutosh here")."<br>";
+      echo("Hello world! I Ashutosh, founder educom, BTech, MCA(IGNOU)")."<br>";
+        echo("I welcome you all tech geeks/students to learn and share");
       ?>
-      </h1>
+      </h2>
       <h2>
       <?php
-      echo("This web app is built using PHP");echo "<br>"; echo("This is a PHP file");
+      echo("This web app is built using PHP");
+      echo("It is a PHP file");
       ?></h2>
       <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=10 width=75% >
       <tr >
