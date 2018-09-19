@@ -27,9 +27,8 @@
       <table border=1 bgcolor=papayawhip>
       <tr >
         <td>C</td><td>DS</td><td>Java</td><td>PHP</td><td>Linux</td><td>Python</td>
-        <td></td><td></td><td></td><td></td><td></td><td></td>
       </tr>
-        <tr >
+      <tr >
         <td></td><td></td><td></td><td></td><td></td><td></td>
       </tr>
       </table>
