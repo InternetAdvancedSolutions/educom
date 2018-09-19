@@ -7,6 +7,7 @@
   <body bgcolor="lavender">
     <center>
       <h1>EDUCOM</h1><h4>ask, answer , learn</h4>
+      <hr>
       <?php
     // Return date/time info of a timestamp; then format the output
     $mydate=getdate(date("U"));
@@ -28,6 +29,7 @@
       </tr>
       </table>
       <h3> Hope you enjoyed learning with us, keep visiting for more exiting stuff on computer science, IT and web development</h3>
+      <hr>
         <h5>
       <?php
       echo("This web app is written in PHP");
