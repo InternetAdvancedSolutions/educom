@@ -22,7 +22,7 @@
       </h1>
       <h2>
       <?php
-      echo("This web app is built using PHP");
+      echo("This web app is built using PHP");echo "<br>"; echo("This is PHP file");
       ?></h2>
     </center>
   </body>
