@@ -24,12 +24,12 @@
       <?php
       echo("This web app is built using PHP");echo "<br>"; echo("This is a PHP file");
       ?></h2>
-      <table border=1 bgcolor=papayawhip align=center cellpadding=10 cellspacing=10 width=75% summary=tutorial links>
+      <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=10 width=75% summary=tutorial links>
       <tr >
         <td>C</td><td>DS</td><td>Java</td><td>PHP</td><td>Linux</td><td>Python</td>
       </tr>
       <tr >
-        <td></td><td></td><td></td><td></td><td></td><td></td>
+        <td><a href="</td><td></td><td></td><a href="https://yashphp.quora.com/"><td></td><td></td><td></td>
       </tr>
       </table>
     </center>
