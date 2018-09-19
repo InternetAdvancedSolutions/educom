@@ -13,6 +13,7 @@
     $mydate=getdate(date("U"));
     echo "$mydate[weekday], $mydate[month] $mydate[mday], $mydate[year]";
     ?>
+      <hr>
       <h2>
       <?PHP
       echo("Hello world! I Ashutosh, co-founder Educom")."<br>";
