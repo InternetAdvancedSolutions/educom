@@ -6,20 +6,16 @@
   </head>
   <body bgcolor="lavender">
     <center>
-      <h1>Educom's motive: Ask, Answer and Learn</h1>
+      <h1>Educom Education Aids</h1>ask, answer , learn.
       <?php
-        // Print the array from getdate()
-        //print_r(getdate());
-        echo "<br><br>";
-
     // Return date/time info of a timestamp; then format the output
     $mydate=getdate(date("U"));
     echo "$mydate[weekday], $mydate[month] $mydate[mday], $mydate[year]";
     ?>
       <h2>
       <?PHP
-      echo("Hello world! I Ashutosh, founder educom, BTech, MCA(IGNOU)")."<br>";
-        echo("I welcome you all tech geeks/students to learn and share");
+      echo("Hello world! I Ashutosh, co-founder educom, BTech, MCA(IGNOU)")."<br>";
+        echo("welcomes you all tech geeks/students to learn and share");
       ?>
       </h2>
       <h2>
