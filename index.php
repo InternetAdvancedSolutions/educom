@@ -14,8 +14,8 @@
     ?>
       <h2>
       <?PHP
-      echo("Hello world! I Ashutosh, co-founder Educom, BTech, MCA(IGNOU)")."<br>";
-        echo("welcomes you all tech guys/students to learn and share");
+      echo("Hello world! I Ashutosh, co-founder Educom")."<br>";
+      echo("welcomes you all tech guys/students to learn and share for free");
       ?>
       </h2>
       <h2>
