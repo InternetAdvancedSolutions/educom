@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>
-      educom | Home | PHP
+      educom | Home 
     </title>
   </head>
   <body bgcolor="lavender">
