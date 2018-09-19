@@ -21,10 +21,10 @@
       <h2>
       <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=10 width=75% >
       <tr >
-        <td>C</td><td>Data Structures in C</td><td>Java</td><td>PHP</td><td>Linux</td><td>Video Tutorials</td>
+        <td>C</td><td>Data Structures in C</td><td>Java</td><td>PHP</td><td>Linux</td><td>Learn via Videos</td>
       </tr>
       <tr >
-        <td><a href="https://deepc.quora.com/">Deep C</a></td><td><a href="http://codelybrary.blogspot.com/">Codelybrary</a></td><td><a href="https://rejavanate.quora.com/">ReJavanate</a></td><td><a href="https://yashphp.quora.com/">Yes PHP!</a></td><td><a href="https://codelybrary.blogspot.com/2018/02/know-me-better.html">Administrator</a></td><td><a href="https://www.youtube.com/watch?v=F43ty4GtrgY&list=UUG-97CfPdyMsjayb-PrBbIg&index=7">My Videos</a></td>
+        <td><a href="https://deepc.quora.com/">Deep C</a></td><td><a href="http://codelybrary.blogspot.com/">Codelybrary</a></td><td><a href="https://rejavanate.quora.com/">ReJavanate</a></td><td><a href="https://yashphp.quora.com/">Yes PHP!</a></td><td><a href="https://codelybrary.blogspot.com/2018/02/know-me-better.html">Administrator</a></td><td><a href="https://www.youtube.com/watch?v=F43ty4GtrgY&list=UUG-97CfPdyMsjayb-PrBbIg&index=7">My Video Tutorials</a></td>
       </tr>
       </table>
       <h3> Hope you enjoyed learning with us, keep visiting for more exiting stuff on computer science, IT and web development</h3>
