@@ -37,6 +37,7 @@ window.onload = function() {
   setInterval('digitalClock()', 1000);
 }
 </script>
+      "Human brain are also a machine"
 &nbsp&nbsp&nbsp<span id="clock"> </span>
       <hr>
       <h2>
@@ -48,10 +49,10 @@ window.onload = function() {
       <h2>
       <table border=1 bgcolor=papayawhip align="center" cellpadding=3 cellspacing=10 width=85% >
       <tr >
-        <td>C</td><td>Data Structures in C</td><td>Java,Applets/Servlets</td><td>Web:js,PHP,Python</td><td>Linux</td><td>Learn via Videos</td>
+        <td>Data Structures in C</td><td>Assembly Programming</td><td>Java,Applets/Servlets</td><td>Web:js,PHP,Python</td><td>Linux</td><td>Learn via Videos</td>
       </tr>
       <tr >
-        <td><a href="https://deepc.quora.com/">Deep C</a></td><td><a href="http://codelybrary.blogspot.com/">Codelybrary</a></td><td><a href="https://rejavanate.quora.com/">ReJavanate</a></td><td><a href="https://yashphp.quora.com/">Yes PHP!</a></td><td><a href="https://leanx.quora.com/">LeanX</a></td><td><a href="https://www.youtube.com/watch?v=F43ty4GtrgY&list=UUG-97CfPdyMsjayb-PrBbIg&index=7">My Video Tutorials</a></td>
+        <td><a href="https://deepc.quora.com/">Deep C</a></td><td><a href="https://x8086.quora.com/">Coding x8086</a></td><td><a href="https://rejavanate.quora.com/">ReJavanate</a></td><td><a href="https://yashphp.quora.com/">Yes PHP!</a></td><td><a href="https://leanx.quora.com/">LeanX</a></td><td><a href="https://www.youtube.com/watch?v=F43ty4GtrgY&list=UUG-97CfPdyMsjayb-PrBbIg&index=7">My Video Tutorials</a></td>
       </tr>
       </table>
       <h3> Hope you enjoyed learning with us, keep visiting for more exiting stuff on computer science, IT and web development</h3>
@@ -60,6 +61,7 @@ window.onload = function() {
       <?php
       echo("This web app is written in PHP");
       ?></h5>
+        <a href="http://codelybrary.blogspot.com/">Code Archive</a>
     </center>
   </body>
 </html>
