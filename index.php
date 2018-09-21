@@ -8,13 +8,12 @@
     <center>
       <h1>EDUCOM</h1><h4>for(i = -&#x221e;; i < +&#x221e;; i++){ask; answer; learn;}</h4>
       <hr>
-      /*
+      
       <?php
     // Return date/time info of a timestamp; then format the output
     $mydate=getdate(date("U"));
     echo "$mydate[weekday], $mydate[month] $mydate[mday], $mydate[year]";
     ?>
-      */
       <?php
 date_default_timezone_set('UTC');
 ?>
@@ -38,7 +37,7 @@ window.onload = function() {
   setInterval('digitalClock()', 1000);
 }
 </script>
-<div id="clock"> </div>
+<span id="clock"> </span>
       <hr>
       <h2>
       <?PHP
