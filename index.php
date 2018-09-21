@@ -6,7 +6,7 @@
   </head>
   <body bgcolor="lavender">
     <center>
-      <h1>EDUCOM</h1><h4>for(i = -&#x221e;; i < +&#x221e;; i++){ask; answer; learn;}</h4>
+      <h1>EDUCOM</h1><h4>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++){ask; answer; learn;}</h4>
       <hr>
       
       <?php
