@@ -56,7 +56,7 @@ window.onload = function() {
       </table>
       Hope you enjoyed learning with us, keep visiting for more exiting stuff on computer science, IT and web development.
       <hr>
-        &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh , India.<br>
+        &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh, India.<br>
         <a href="http://codelybrary.blogspot.com/">Code Archive</a>
     </center>
   </body>
