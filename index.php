@@ -37,6 +37,7 @@ window.onload = function() {
   setInterval('digitalClock()', 1000);
 }
 </script>
+&nbsp&nbsp&nbsp
       "Human brain are also a machine"
 &nbsp&nbsp&nbsp<span id="clock"> </span>
       <hr>
