@@ -37,7 +37,7 @@ window.onload = function() {
   setInterval('digitalClock()', 1000);
 }
 </script>
-<span id="clock"> </span>
+&nbsp&nbsp&nbsp<span id="clock"> </span>
       <hr>
       <h2>
       <?PHP
@@ -46,7 +46,7 @@ window.onload = function() {
       ?>
       </h2>
       <h2>
-      <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=10 width=75% >
+      <table border=1 bgcolor=papayawhip align="center" cellpadding=3 cellspacing=10 width=85% >
       <tr >
         <td>C</td><td>Data Structures in C</td><td>Java,Applets/Servlets</td><td>Web:js,PHP,Python</td><td>Linux</td><td>Learn via Videos</td>
       </tr>
