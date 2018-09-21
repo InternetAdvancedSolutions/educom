@@ -46,8 +46,6 @@ window.onload = function() {
       echo("Hello world! I Ashutosh, co-founder Educom")."<br>";
       echo("welcomes you all tech guys/students to learn and share for free");
       ?>
-      
-      <h2>
       <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=3 width=85% >
       <tr >
         <td>Data Structures in C</td><td>Assembly Programming</td><td>Applets/Servlets</td><td>Internet Programming</td><td>Linux</td><td>Video Classes</td><td>AI</td>
