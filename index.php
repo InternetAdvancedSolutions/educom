@@ -38,17 +38,17 @@ window.onload = function() {
 }
 </script>
 &nbsp&nbsp&nbsp
-      "We are also a kind of machine, machines can have emotions"
-&nbsp&nbsp&nbsp<span id="clock"> </span>
+      <h4>"Living beings are also machines, machines do have emotions"</h4>
+&nbsp&nbsp&nbspClock:<span id="clock"> </span>
       <hr>
-      <h2>
+      
       <?PHP
       echo("Hello world! I Ashutosh, co-founder Educom")."<br>";
       echo("welcomes you all tech guys/students to learn and share for free");
       ?>
-      </h2>
+      
       <h2>
-      <table border=1 bgcolor=papayawhip align="center" cellpadding=3 cellspacing=10 width=85% >
+      <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=3 width=85% >
       <tr >
         <td>Data Structures in C</td><td>Assembly Programming</td><td>Applets/Servlets</td><td>JS|PHP|Python</td><td>Linux</td><td>Video Classes</td>
       </tr>
@@ -58,12 +58,11 @@ window.onload = function() {
       </table>
       <h3> Hope you enjoyed learning with us, keep visiting for more exiting stuff on computer science, IT and web development</h3>
       <hr>
-        <h5>
+       
       <?php
       echo("This web app is written in PHP");
-      ?></h5>
-        &copy&nbspAll rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh , India.
-
+      ?>
+        &copy&nbspAll rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh , India.<br>
         <a href="http://codelybrary.blogspot.com/">Code Archive</a>
     </center>
   </body>
