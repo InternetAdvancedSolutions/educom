@@ -39,7 +39,7 @@ window.onload = function() {
 </script>
 &nbsp&nbsp&nbsp
       <B>"Living beings are also machines, machines do have emotions"</B>
-&nbsp&nbsp&nbspClock:<span id="clock"> </span>
+&nbsp&nbsp&nbspTime&nbsp<span id="clock"> </span>
       <hr>
       
       <?PHP
