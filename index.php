@@ -50,13 +50,13 @@ window.onload = function() {
       <h2>
       <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=3 width=85% >
       <tr >
-        <td>Data Structures in C</td><td>Assembly Programming</td><td>Applets/Servlets</td><td>JS|PHP|Python</td><td>Linux</td><td>Video Classes</td>
+        <td>Data Structures in C</td><td>Assembly Programming</td><td>Applets/Servlets</td><td>Internet Programming</td><td>Linux</td><td>Video Classes</td><td>AI</td>
       </tr>
       <tr >
-        <td><a href="https://deepc.quora.com/">Deep C</a></td><td><a href="https://x8086.quora.com/">Coding x8086</a></td><td><a href="https://rejavanate.quora.com/">ReJavanate</a></td><td><a href="https://yashphp.quora.com/">Yes PHP!</a></td><td><a href="https://leanx.quora.com/">LeanX</a></td><td><a href="https://www.youtube.com/watch?v=F43ty4GtrgY&list=UUG-97CfPdyMsjayb-PrBbIg&index=7">My Tutorials</a></td>
+        <td><a href="https://deepc.quora.com/">Deep C</a></td><td><a href="https://x8086.quora.com/">Coding x8086</a></td><td><a href="https://rejavanate.quora.com/">ReJavanate</a></td><td><a href="https://yashphp.quora.com/">Yes PHP!</a></td><td><a href="https://leanx.quora.com/">LeanX</a></td><td><a href="https://www.youtube.com/watch?v=F43ty4GtrgY&list=UUG-97CfPdyMsjayb-PrBbIg&index=7">My Tutorials</a></td><td><a href="https://aeyenabled.quora.com/">A Eye</a></td>
       </tr>
       </table>
-      <h3> Hope you enjoyed learning with us, keep visiting for more exiting stuff on computer science, IT and web development</h3>
+      Hope you enjoyed learning with us, keep visiting for more exiting stuff on computer science, IT and web development.
       <hr>
         &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh , India.<br>
         <a href="http://codelybrary.blogspot.com/">Code Archive</a>
