@@ -21,7 +21,7 @@ else {
 	$counter = (int ) fread($handle,20);
 	fclose ($handle);
 	$counter++;
-	echo" <strong> you are visitor no ". $counter . " </strong> " ;
+	echo" <table><tr><td><strong>You are visitor no ". $counter . " </strong></td></tr></table>" ;
 $handle = fopen("counter.txt", "w" );
 fwrite($handle,$counter) ;
 fclose ($handle) ;
