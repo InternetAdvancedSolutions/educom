@@ -6,9 +6,8 @@
   </head>
   <body bgcolor="lavender">
     <center>
-      <h1>EDUCOM</h1><h4>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++){ask; answer; learn;}</h4>
-      <?php 
-
+      <h1>EDUCOM</h1><h4>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++){ask; answer; learn;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <?php 
 $handle = fopen("counter.txt", "r");
 if(!$handle){
 	
@@ -21,14 +20,13 @@ else {
 	$counter = (int ) fread($handle,20);
 	fclose ($handle);
 	$counter++;
-	echo" <table border=2 bgcolor=papayawhip><tr><td><strong>You are visitor no ". $counter . " </strong></td></tr></table>" ;
+	echo" <table border=2 bgcolor=papayawhip cellpading=10><tr><td><strong>You are visitor no ". $counter . " </strong></td></tr></table>" ;
 $handle = fopen("counter.txt", "w" );
 fwrite($handle,$counter) ;
 fclose ($handle) ;
 	}
-?>
+  ?></h4>
       <hr>
-      
       <?php
     // Return date/time info of a timestamp; then format the output
     $mydate=getdate(date("U"));
