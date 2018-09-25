@@ -4,10 +4,11 @@ if(!$handle){
  echo "could not open the file" ;
 }
 else {
-	$counter = (int ) fread($handle,20);
+	$counter = (int)fgets($handle,1000);
+	//$counter = (int ) fread($handle,20);
 	fclose ($handle);
 	$counter++;
-	echo "You are visitor no ". $counter . "</td></tr></table>" ;
+	echo "You are visitor no ".$counter. "</td></tr></table>" ;
 $handle = fopen("counter.txt", "w" );
 fwrite($handle,$counter) ;
 fclose ($handle) ;
