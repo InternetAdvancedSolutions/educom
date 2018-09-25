@@ -6,7 +6,7 @@
   </head>
   <body bgcolor="lavender">
     <center>
-	    <font size="20" color="dodgerblue"<h1>EDUCOM</h1></font><table border=0 bgcolor=papayawhip cellpading=10 cellspacing=2><td>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++){ask; answer; learn;}</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    <font size="25" color="dodgerblue"<h1>EDUCOM</h1></font><table border=0 bgcolor=papayawhip cellpading=10 cellspacing=2><td>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++){ask; answer; learn;}</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	   <?php include "counter.php";?>    
       <hr>
       <?php
