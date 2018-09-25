@@ -9,18 +9,14 @@
       <h1>EDUCOM</h1><h4>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++){ask; answer; learn;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <?php 
 $handle = fopen("counter.txt", "r");
-if(!$handle){
-	
+if(!$handle){	
  echo "could not open the file" ;
-
 }
 else {
-	
-	
 	$counter = (int ) fread($handle,20);
 	fclose ($handle);
 	$counter++;
-	echo" <table border=2 bgcolor=papayawhip cellpading=10><tr><td><strong>You are visitor no ". $counter . " </strong></td></tr></table>" ;
+	echo "<table border=2 bgcolor=papayawhip cellpading=10 cellspacing=5><tr><td>You are visitor no ". $counter . "</td></tr></table>" ;
 $handle = fopen("counter.txt", "w" );
 fwrite($handle,$counter) ;
 fclose ($handle) ;
