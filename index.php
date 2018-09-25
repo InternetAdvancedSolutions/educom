@@ -6,7 +6,7 @@
   </head>
   <body bgcolor="lavender">
     <center>
-      <h1>EDUCOM</h1><h4>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++){ask; answer; learn;}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <h1>EDUCOM</h1><table border=0 bgcolor=papayawhip cellpading=10 cellspacing=2><td>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++){ask; answer; learn;}</td><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <?php 
 $handle = fopen("counter.txt", "r");
 if(!$handle){	
@@ -16,7 +16,7 @@ else {
 	$counter = (int ) fread($handle,20);
 	fclose ($handle);
 	$counter++;
-	echo "<table border=2 bgcolor=papayawhip cellpading=10 cellspacing=5><tr><td>You are visitor no ". $counter . "</td></tr></table>" ;
+	echo "You are visitor no ". $counter . "</td></tr></table>" ;
 $handle = fopen("counter.txt", "w" );
 fwrite($handle,$counter) ;
 fclose ($handle) ;
