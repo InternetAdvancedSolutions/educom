@@ -54,7 +54,7 @@ window.onload = function() {
         <td><a href="https://deepc.quora.com/">Deep C</a></td><td><a href="https://x8086.quora.com/">Coding x8086</a></td><td><a href="https://rejavanate.quora.com/">ReJavanate</a></td><td><a href="https://yashphp.quora.com/">Yes PHP!</a></td><td><a href="https://leanx.quora.com/">LeanX</a></td><td><a href="https://www.youtube.com/watch?v=F43ty4GtrgY&list=UUG-97CfPdyMsjayb-PrBbIg&index=7">My Tutorials</a></td><td><a href="https://aeyenabled.quora.com/">A Eye</a></td>
       </tr>
       </table>
-      Hope you enjoyed learning with us, keep visiting for more exiting stuff on computer science, IT and web development.
+      Hope you enjoyed learning with us, keep visiting for more exciting stuff on computer science, IT and web development.
       <hr>
         &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh, India.<br>
         <a href="http://codelybrary.blogspot.com/">Code Archive</a>
