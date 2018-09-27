@@ -38,7 +38,7 @@ window.onload = function() {
 }
 </script>
 &nbsp&nbsp&nbsp
-      <B>"Living beings are also machines, machines do have emotions"</B>
+      <B>"When work is pleasure...life is joy"<br>"Do what you love or love what you do"</B>
 &nbsp&nbsp&nbspTime&nbsp<span id="clock"> </span>
       <hr>
       
