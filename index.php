@@ -55,10 +55,10 @@ window.onload = function() {
       </tr>
       </table>
       Hope you enjoyed learning with us, keep visiting for more exciting stuff on computer science, IT and web development.<br>
-	    Good online resources for programmers:<br>
+	    Good online resources for programmers:
 	    <ol type="1">
 		    <li>
-	    <a href="https://codegym.cc/quests/tutorial/landing?utm_source=quora&utm_medium=topic_target_desktop">Learn Programming</a>
+	    <a href="https://codegym.cc/quests/tutorial/landing?utm_source=quora&utm_medium=topic_target_desktop">Learn Java</a>
 		    </li>
 	    </ol>
       <hr>
