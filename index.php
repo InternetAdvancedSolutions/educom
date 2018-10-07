@@ -60,6 +60,9 @@ window.onload = function() {
 		    <li>
 	    <a href="https://codegym.cc/quests/tutorial/landing?utm_source=quora&utm_medium=topic_target_desktop">Learn Java</a>
 		    </li>
+		    <li>
+			    <a href="https://bash.cyberciti.biz/guide/Main_Page">Linux Shell</a>
+		    </li>
 	    </ol>
       <hr>
         &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh, India.<br>
