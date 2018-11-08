@@ -66,7 +66,12 @@ window.onload = function() {
 		    <li>
 			    <a href="https://javabrains.io/courses/spring_core/">Java Spring:Enterprise Applicatiions</a>
 		    </li>
+		    <li>
+			    <a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG6v-afxpegn8VdILsS3x8o&app=desktop">Programming in C: IIT Kanpur</a>
 		    </li>
+			    
+		   
+		    
 	    </ol>
       <hr>
         &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh, India.<br>
