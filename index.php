@@ -43,8 +43,8 @@ window.onload = function() {
       <hr>
       
       <?PHP
-      echo("Hello friends! Educom")."<br>";
-      echo("welcomes you to learn and share ");
+      echo("Hello friends!")."<br>";
+      echo("welcome to Educom: learn and share ");
       ?>
       <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=3 width=85% >
       <tr >
