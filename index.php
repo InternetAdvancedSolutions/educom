@@ -6,7 +6,7 @@
   </head>
   <body bgcolor="lavender">
     <center>
-	    <table border=0 bgcolor=papayawhip cellpading=10 cellspacing=2><td><image src="ashutosh-js.jpg">&nbsp;&nbsp;</td><td><font face=verdana size="35" color="dodgerblue">EDUCOM</font><br>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++)<br>{ask; answer; learn;}</td><td></table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    <table border=0 bgcolor=papayawhip cellpading=10 cellspacing=2><td><image src="android5.jpg">&nbsp;&nbsp;</td><td><font face=verdana size="35" color="dodgerblue">EDUCOM</font><br>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++)<br>{ask; answer; learn;}</td><td></table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	   <?php include "counter.php";?>    
       <hr>
       <?php
@@ -43,8 +43,8 @@ window.onload = function() {
       <hr>
       
       <?PHP
-      echo("Hello world! I Ashutosh, co-founder Educom")."<br>";
-      echo("welcomes you all tech guys/students to learn and share for free");
+      echo("Hello friends! Educom")."<br>";
+      echo("welcomes you to learn and share ");
       ?>
       <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=3 width=85% >
       <tr >
