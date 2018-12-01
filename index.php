@@ -67,7 +67,7 @@ window.onload = function() {
 			    <a href="https://javabrains.io/courses/spring_core/">Java Spring:Enterprise Applicatiions</a>
 		    </li>
 		    <li>
-			    <a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG6v-afxpegn8VdILsS3x8o&app=desktop">Programming in C: IIT Kanpur</a>
+			    <a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG6v-afxpegn8VdILsS3x8o&app=desktop">Programming in C</a>
 		    </li>
 			    
 		   
