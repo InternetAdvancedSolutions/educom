@@ -44,7 +44,7 @@ window.onload = function() {
       
       <?PHP
       echo("Hello friends!")."<br>";
-      echo("welcome to Educom: learn and share ");
+      echo("welcome to Educom: learn and educate ");
       ?>
       <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=3 width=85% >
       <tr >
