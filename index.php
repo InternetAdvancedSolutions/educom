@@ -38,7 +38,8 @@ window.onload = function() {
 }
 </script>
 &nbsp&nbsp&nbsp
-      <B>"When work is pleasure...life is joy"<br>"Once you stop learning, you start dying"</B>
+      <!--<B>"When work is pleasure...life is joy"<br> -->
+	      "Once you stop learning, you start dying"</B>
 &nbsp&nbsp&nbspTime&nbsp<span id="clock"> </span>
       <hr>
       
