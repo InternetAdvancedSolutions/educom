@@ -12,7 +12,7 @@
 	    </table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	   <?php include "counter.php";?>
 	    <?php
-	    $hits=[![HitCount](http://hits.dwyl.io/InternetAdvancedSolutions/educom.svg)](http://hits.dwyl.io/InternetAdvancedSolutions/educom);
+	    $hits=[![HitCount](http://hits.dwyl.io/InternetAdvancedSolutions/educom.svg)](http://hits.dwyl.io/InternetAdvancedSolutions/educom)];
 		echo $hits;	       
 	    ?>
 	    
