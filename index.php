@@ -10,7 +10,10 @@
 		    <td><image src="programming3.jpg">&nbsp;&nbsp;</td>
 		    <td><font face=verdana size="35" color="dodgerblue">EDUCOM</font><br>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++)<br>{ask; answer; learn;}</td><td>
 	    </table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	   <?php include "counter.php";?>    
+	   <!--<?php include "counter.php";?> -->
+	    <script src="http://counter.heroku.com/javascripts/count.js" type="text/javascript"></script>	
+            <div>Hit Count: <span id = "count"></span><div>
+
       <hr>
       <?php
     // Return date/time info of a timestamp; then format the output
