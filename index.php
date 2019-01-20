@@ -11,10 +11,7 @@
 		    <td><font face=verdana size="35" color="dodgerblue">EDUCOM</font><br>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++)<br>{ask; answer; learn;}</td><td>
 	    </table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	   <?php include "counter.php";?>
-	    <?php
-	    $hits=[![HitCount](http://hits.dwyl.io/InternetAdvancedSolutions/educom.svg)](http://hits.dwyl.io/InternetAdvancedSolutions/educom)];
-		echo $hits;	       
-	    ?>
+	    
 	    
 	    
 
