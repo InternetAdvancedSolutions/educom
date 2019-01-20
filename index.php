@@ -11,7 +11,7 @@
 		    <td><font face=verdana size="35" color="dodgerblue">EDUCOM</font><br>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++)<br>{ask; answer; learn;}</td><td>
 	    </table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	   <?php include "counter.php";?>    
-      <hr>
+      <!--<hr>-->
       <?php
     // Return date/time info of a timestamp; then format the output
     $mydate=getdate(date("U"));
@@ -44,7 +44,7 @@ window.onload = function() {
       <!--<B>"When work is pleasure...life is joy"<br> -->
 	      "Once you stop learning, you start dying"</B>
 &nbsp&nbsp&nbspTime&nbsp<span id="clock"> </span>
-      <hr>
+      <!--<hr>-->
       
       <?PHP
       echo("Hello friends!")."<br>";
