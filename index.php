@@ -56,7 +56,7 @@ window.onload = function() {
       ?>
 	  <br>
 	  <br>
-      <table border=1 bgcolor=papayawhip align="left" cellpadding=10 cellspacing=3 width=85% >
+      <table border=1 bgcolor=papayawhip align="left" cellpadding=10 cellspacing=3 width=100% >
       <tr >
         <td>Android</td><td>DSA in C/C++</td><td>Assembly</td><td>Java</td><td>PHP</td><td>Linux</td><td>Videos</td><td>AI</td>
       </tr>
