@@ -63,8 +63,9 @@ window.onload = function() {
       </tr>
       </table>
       Hope you enjoyed learning with us, keep visiting for more exciting stuff on computer science, IT and web development.<br>
-	    Good online resources for programmers:
-	    <ol type="1" align=left>
+	   Some useful online resources for programmers:
+	  <div align=left>
+	    <ol type="1" >
 		    <li>
 	    <a href="https://codegym.cc/quests/tutorial/landing?utm_source=quora&utm_medium=topic_target_desktop">Learn Java</a>
 		    </li>
@@ -76,11 +77,9 @@ window.onload = function() {
 		    </li>
 		    <li>
 			    <a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG6v-afxpegn8VdILsS3x8o&app=desktop">Programming in C</a>
-		    </li>
-			    
-		   
-		    
+		    </li>	    
 	    </ol>
+	  </div>
       <hr>
         &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh, India.<br>
         <a href="http://codelybrary.blogspot.com/">Code Archive</a>
