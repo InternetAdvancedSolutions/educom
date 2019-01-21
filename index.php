@@ -66,8 +66,9 @@ window.onload = function() {
       </table>
 	  <br><br>
       Hope you enjoyed learning with us, keep visiting for more exciting stuff on computer science, IT and web development.<br>
-	   Some useful online resources for programmers:
-	  <div align=left>
+	  <div align=left> 
+	  Some useful online resources for programmers:
+	  <!--<div align=left>-->
 	    <ol type="1" >
 		    <li>
 	    <a href="https://codegym.cc/quests/tutorial/landing?utm_source=quora&utm_medium=topic_target_desktop">Learn Java</a>
