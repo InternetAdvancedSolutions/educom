@@ -54,7 +54,9 @@ window.onload = function() {
       echo("Hello friends!")."<br>";
       echo("welcome to Educom: learn and educate ");
       ?>
-      <table border=1 bgcolor=papayawhip align="center" cellpadding=10 cellspacing=3 width=85% >
+	  <br>
+	  <br>
+      <table border=1 bgcolor=papayawhip align="left" cellpadding=10 cellspacing=3 width=85% >
       <tr >
         <td>Android</td><td>DSA in C/C++</td><td>Assembly</td><td>Java</td><td>PHP</td><td>Linux</td><td>Videos</td><td>AI</td>
       </tr>
