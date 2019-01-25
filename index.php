@@ -71,6 +71,9 @@ window.onload = function() {
 	  <!--<div align=left>-->
 	    <ol type="1" >
 		    <li>
+			    <a href="https://cs.fit.edu/~ryan/java/language/">Best online resource on Java</a>
+		    </li>
+		    <li>
 	    <a href="https://codegym.cc/quests/tutorial/landing?utm_source=quora&utm_medium=topic_target_desktop">Learn Java</a>
 		    </li>
 		    <li>
