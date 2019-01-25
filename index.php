@@ -84,7 +84,10 @@ window.onload = function() {
 		    </li>
 		    <li>
 			    <a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG6v-afxpegn8VdILsS3x8o&app=desktop">Programming in C</a>
-		    </li>	    
+		    </li>
+		    <li>
+			    <a href="https://training.crbtech.in/it-training-program-mh?gclid=EAIaIQobChMIs9LG5NWJ4AIV1RlyCh3urA-LEAEYASAAEgKzNfD_BwE">Java Training plus Job</a>
+		    </li>
 	    </ol>
 	  </div>
       <hr>
