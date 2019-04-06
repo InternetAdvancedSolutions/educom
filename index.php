@@ -56,6 +56,7 @@ window.onload = function() {
       echo("Hello friends!")."<br>";
       echo("welcome to Educom: Share, learn and educate ");
       ?>
+	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|View My Profile|300x117|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/View My Profile@300x117.png" alt="View My Profile" style="max-width: 100%;"></a>
 	  <br>
 	  <br>
       <table border=1 bgcolor=papayawhip align="left" cellpadding=10 cellspacing=3 width=100% >
