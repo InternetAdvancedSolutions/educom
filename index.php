@@ -9,7 +9,8 @@
 	    <table border=0 bgcolor=papayawhip cellpading=10 cellspacing=2 align=left>
 		    <td><image src="programming3.jpg">&nbsp;&nbsp;</td>
 		    <td><font face=verdana size="35" color="dodgerblue">EDUCOM</font>
-			    <!--<br>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++)<br>{ask; answer; learn;}</td><td> -->
+			    <br>Sharing programming experiences & knowledge 
+			   <!-- <br>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++)<br>{ask; answer; learn;}</td><td> -->
 	    </table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	   <!-- <?php include "counter.php";?> -->
 	    
@@ -53,7 +54,7 @@ window.onload = function() {
       
       <?PHP
       echo("Hello friends!")."<br>";
-      echo("welcome to Educom: learn and educate ");
+      echo("welcome to Educom: Share, learn and educate ");
       ?>
 	  <br>
 	  <br>
