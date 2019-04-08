@@ -68,8 +68,8 @@ window.onload = function() {
       </tr>
       </table>
 	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|View My Profile|300x117|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/View My Profile@300x117.png" alt="View My Profile" style="max-width: 100%;"></a>
-	  <br>
-	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|Proud to be a Teacher|120x47|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/Proud to be a Teacher@120x47.png" alt="Proud to be a Teacher" style="max-width: 100%;"></a>
+	  
+	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|Proud to be a Teacher|3000x117|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/Proud to be a Teacher@300x117.png" alt="Proud to be a Teacher" style="max-width: 100%;"></a>
 	  <br><br>
       Hope you enjoyed learning with us, keep visiting for more exciting stuff on computer science, IT and web development.<br>
 	  <div align=left> 
