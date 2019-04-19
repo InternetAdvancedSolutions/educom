@@ -67,9 +67,9 @@ window.onload = function() {
         <td><a href="https://ondmov.quora.com/">Ondmov</a><td><a href="https://deepc.quora.com/">Deep C</a></td><td><a href="https://x8086.quora.com/">Coding x8086</a></td><td><a href="https://rejavanate.quora.com/">ReJavanate</a></td><td><a href="https://yashphp.quora.com/">Yes PHP!</a></td><td><a href="https://leanx.quora.com/">LeanX</a></td><td><a href="https://www.youtube.com/watch?v=F43ty4GtrgY&list=UUG-97CfPdyMsjayb-PrBbIg&index=7">Arduino</a></td><td><a href="https://aeyenabled.quora.com/">A Eye</a></td>
       </tr>
       </table>
-	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|View My Profile|300x117|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/View My Profile@300x117.png" alt="View My Profile" style="max-width: 100%;"></a>
+	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|View My Profile|300x117|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/View My Profile@120x47.png" alt="View My Profile" style="max-width: 100%;"></a>
 	  
-	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|Proud to be a Teacher|3000x117|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/Proud to be a Teacher@300x117.png" alt="Proud to be a Teacher" style="max-width: 100%;"></a>
+	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|Proud to be a Teacher|3000x117|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/Proud to be a Teacher@120x117.png" alt="Proud to be a Teacher" style="max-width: 100%;"></a>
 	  <br><br>
       Hope you enjoyed learning with us, keep visiting for more exciting stuff on computer science, IT and web development.<br>
 	  <div align=left> 
