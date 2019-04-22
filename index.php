@@ -98,7 +98,7 @@ window.onload = function() {
 	  </div>
       <hr>
         &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh, India.<br>
-        <a href="http://codelybrary.blogspot.com/">Code Archive</a>
+        <a href="http://codelybrary.blogspot.com/">codelybrary</a>
     </center>
   </body>
 </html>
