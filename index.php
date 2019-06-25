@@ -12,12 +12,8 @@
 			    <br>Sharing programming experiences & knowledge 
 			   <!-- <br>for(i = -&nbsp&#x221e;; i < +&nbsp&#x221e;; i++)<br>{ask; answer; learn;}</td><td> -->
 	    </table>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	  <p class="mb-0"> Total visitors:</p>
-      <div align=center>
-         <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-bZZC020WZa18C555-66.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=bZZC020WZa18C555'></script>
-      </div>
-	    
-	  
+	 
+     	  
 
       <hr>
       <?php
