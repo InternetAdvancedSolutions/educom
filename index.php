@@ -17,18 +17,7 @@
          <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-bZZC020WZa18C555-66.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=bZZC020WZa18C555'></script>
       </div>
 	    
-	    ------------------------
-	    <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-		<script src="jquery.counterup.min.js"></script
-			
-<span class="counter">1,234,567.00</span>
-<span>$</span><span class="counter">1.99</span>
-<span class="counter">12345</span>
-	    
-	    
-	    
-	    
-	    
+	  
 
       <hr>
       <?php
