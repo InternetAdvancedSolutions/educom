@@ -70,6 +70,8 @@ window.onload = function() {
 	  <a href="https://www.urbanpro.com/varanasi/ashutosh-singh/9076257?_r=widgets|UrbanProBadge|Proud to be a Teacher|3000x117|1147065" target="_blank" style="display: inline-block;"><img src="https://www.urbanpro.com/assets/new-ui/badges/Proud to be a Teacher@300x117.png" alt="Proud to be a Teacher" style="max-width: 100%;"></a>
 	  <br><br>
       Hope you enjoyed learning with us, keep visiting for more exciting stuff on computer science, IT and web development.<br>
+	  Recently I was recognized as a NPTEL discipline Star(Computer Science & Engineering)'2019.
+	  <image src="NPTELstar2019.png">
 	  <div align=left> 
 	  Some useful online resources for programmers:
 	  <!--<div align=left>-->
