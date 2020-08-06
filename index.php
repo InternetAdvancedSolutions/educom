@@ -99,7 +99,7 @@ window.onload = function() {
 	  </div>
       <hr>
         &copy&nbspAll copy rights reserved by Yash InfoTech, Varanasi, Uttar Pradesh, India.<br>
-        <a href="http://codelybrary.blogspot.com/">codelybrary</a>
+        <a href="http://mca4ignou.blogspot.com/">mca4ignou</a>
     </center>
   </body>
 </html>
