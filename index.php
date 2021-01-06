@@ -90,7 +90,10 @@ window.onload = function() {
 			    <a href="https://javabrains.io/courses/spring_core/">Java Spring</a>
 		    </li>
 		    <li>
-			    <a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG6v-afxpegn8VdILsS3x8o&app=desktop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.efaculty.in/c-language/object-and-executable-code-in-c-language/#:~:text=Object%20code%20is%20the%20output,Intel%2Dcompatible)%20or%20PowerPC.">Programming in C</a>
+			    <a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBG6v-afxpegn8VdILsS3x8o&app=desktop">Programming in C</a>
+		    </li>	    
+	            <li>
+			    <a href="https://www.efaculty.in/c-language/object-and-executable-code-in-c-language/#:~:text=Object%20code%20is%20the%20output,Intel%2Dcompatible)%20or%20PowerPC.">Programming basics</a>
 		    </li>
 		    <li>
 			    <a href="https://training.crbtech.in/it-training-program-mh?gclid=EAIaIQobChMIs9LG5NWJ4AIV1RlyCh3urA-LEAEYASAAEgKzNfD_BwE">Java Training plus Job</a>
